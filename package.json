@@ -1,0 +1,11 @@
+{
+  "name": "dev-helper-lib",
+  "version": "1.0.0",
+  "description": "A helpful library for development work",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "node index.js"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
